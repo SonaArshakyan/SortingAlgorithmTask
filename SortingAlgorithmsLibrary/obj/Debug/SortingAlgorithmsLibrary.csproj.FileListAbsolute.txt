@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\bin\Debug\SortingAlgorithmsLibrary.dll
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\bin\Debug\SortingAlgorithmsLibrary.pdb
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\obj\Debug\SortingAlgorithmsLibrary.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\obj\Debug\SortingAlgorithmsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\obj\Debug\SortingAlgorithmsLibrary.dll
+C:\Users\Administrator\source\repos\SortingAlgorithmTask\SortingAlgorithmsLibrary\obj\Debug\SortingAlgorithmsLibrary.pdb
